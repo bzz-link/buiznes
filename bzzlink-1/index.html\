@@ -1,0 +1,119 @@
+<html>
+
+<head>
+    <title>EMRI BIZNESIT</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+    <header class="main-header">
+        <h1 class="bobi">EMRI BIZNESIT</h1>
+        <nav>
+            <a href="index.html">HOME</a>
+            <a href="restorantmenu.html">RESTORANT MENU</a>
+            <a href="barmenu.html">BAR MENU</a>
+            <a href="events.html">EVENTS</a>
+            <a href="contactus.html">CONTACT US</a>
+        </nav>
+    </header>
+    
+    <main class="klasa1">
+
+       <div class="nje">
+        <img src="images/1.jpg" alt="foto">
+       </div>
+
+       <div class="dy">
+        <h2 class="ese">WELCOME</h2>
+        <h3 class="esee">SERVING OUG GUEST SINCE 2009</h3>
+        <p class="bebsi"> Ne ofrojmë gatime tradicionale të përgatitura me përbërës të freskët,
+  duke krijuar një ambient të ngrohtë dhe mikpritës për çdo klient.
+  Shija, cilësia dhe pasioni janë pjesë e çdo pjate.</p>
+       </div>
+
+       <div class="dada">
+        <a href="moreaboutus.html">More ABOUT Us</a>
+       </div>
+
+       <div class="kater">
+        <img src="images/14.jpg" alt="foto">
+       </div>
+
+       <div class="pese">
+        <h2 class="ren">HOURS</h2>
+        <p class="desi">MONDAY-SATURDAY|6:30AM-11PM <br>
+         SATURDAY-SUNDAY|6:30AM-11PM  </p><br>
+       </div>
+  
+       <div class="gjashte">
+        <img src="images/2.jpg" alt="foto">
+       </div>
+       <div class="shtate">
+       <h2 class="ren">OUR MENU</h2>
+       <h3 class="rren">Quality Ingerdients, Tasty Meals</h3><br>
+        <p class="bebsi">Kuzhina jonë ndërthur shijet më të mira të kuzhinës italiane, greke dhe shqiptare, duke ruajtur traditën dhe autenticitetin e çdo recete.
+Përdorim produkte të freskëta lokale, receta tradicionale dhe një stil gatimi modern, për të krijuar një eksperiencë unike shijeje për çdo vizitor.</p><br>
+         <a href="restorantmenu.html" class="btn">Restoraant Menu</a><br>
+         <a href="barmenu.html" class="btn">Bar Menu</a>
+       </div>
+       <div class="tete">
+       <h2 class="teteh">We Welcome You</h2>
+       <h3 class="tetehe">Emri Restorantit</h3><br>
+       <h4 class="teteha">Service and hospitality</h4>
+        <p class="tetep">The vision and perspective for the future are best embodied on our restaurant, which in the name of sacrifice have done everything to promote the best values ​​of Albanian cuisine and products</p><br>
+         <a href="contactus.html" class="book-btn">REZERVO TANI </a><br>
+       </div>
+    </main>
+<footer class="footer">
+
+  <div class="bzzz">
+    <h2 class="ren">Contact Us</h2>
+
+    <!-- Address -->
+    <p>
+      <a href="https://maps.app.goo.gl/SckV4vKB2H2p9zdL9" target="_blank">
+  📍 Vorë, Tiranë
+</a>
+
+    </p>
+
+    <!-- Email -->
+    <p>
+      <a href="mailto:hidrirenis07@gmail.com.com">
+        ✉️ emaili restorant@yahoo.com
+      </a>
+    </p>
+
+    <!-- Phone -->
+    <p>
+      <a href="tel:+355683423149">
+        📞 +355 68 342 3149
+      </a>
+    </p>
+  </div>
+
+  <!-- Google Map -->
+  <div class="mapi">
+    <iframe
+  src="https://www.google.com/maps?q=Vore+Tirane&z=16&output=embed"
+  width="100%"
+  height="300"
+  style="border:0;"
+  allowfullscreen
+  loading="lazy">
+</iframe>
+
+  </div>
+
+  <!-- Copyright -->
+  <div class="copyright">
+    © 2026 EMRI Restaurant
+  </div>
+
+</footer>
+
+</body>
+
+</html>
